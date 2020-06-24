@@ -1,6 +1,6 @@
 # CNN-Feature-Dictionary
 
-An implementation of the CNN Feature Dictionary algorithm, for the MV Tech dataset for anomaly detection in texture based datasets.
+An implementation of the CNN Feature Dictionary algorithm, for the MV-Tec dataset for anomaly detection in texture based datasets.
 
 Results for the MV Tech dataset: https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf
 
